@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "08f3f6739a054a9b1eaebac6",
+  "owner": "mk5ajyye",
+  "repo": "page-74906d3138ec4b45751ef30a",
+  "title": "Dolphin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74906d3138ec4b45751ef30a",
+      "a": "Dolphin",
+      "b": "2027最新官网",
+      "entity": "Dolphin",
+      "brand": "Dolphin",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "62eb3377ce088788ebbe94ac7b5999776067f1e8bd554921e8f88424dd78a35c",
+      "content": {
+        "primary_entity": "Dolphin",
+        "keyword1": "Dolphin",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Dolphin 客户端覆盖常见的桌面与移动系统，订阅导入方式按平台文档执行。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "前往购买页选择套餐，完成订阅后按客户端文档导入配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐后开始配置",
+          "AI_DESCRIPTION": "，Dolphin 面向需要稳定跨境连接的访问场景，提供基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量、3 台设备在线，适合个人轻量使用；旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速与全节点原生流媒体解锁；团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由与专属客户经理。按年付分别仅需 ¥150/年、¥350/年、¥850/年，适合长期使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和订阅周期三个角度比较套餐，可以减少选错档位的情况。",
+          "AI_FEATURES_TITLE": "套餐选择的核心差异",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线设备数选档更直接。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分三档，重度流媒体或多人共享建议旗舰版及以上。",
+          "AI_FEATURE_TEXT_3": "按年付比按月付更省，长期使用可优先考虑 ¥350/年 的旗舰版。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量规模",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先看设备与流量需求，再对照套餐档位，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成 Dolphin 配置",
+          "AI_HERO_INTRO": "Dolphin 为跨境访问提供多档订阅方案，覆盖日常浏览、流媒体解锁和多人团队使用等场景。按设备数量与月流量选择合适套餐，再参照对应客户端说明导入订阅，即可在不同终端上统一管理连接。",
+          "AI_HERO_SUBTITLE": "多档套餐，匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 起，最高 1000GB",
+          "AI_HIGHLIGHT_3": "按年付最低 ¥150/年",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、100GB 流量、3 台设备；旗舰版 ¥35/月、300GB 流量、5 台设备，含 IPLC 专线；团队版 ¥85/月、1000GB 流量、20 台设备。按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数和每月流量需求，从三档套餐中确定适合自己的档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量上限和线路类型，确认与使用场景匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成连接配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Dolphin 多档订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Dolphin 支持哪些设备同时使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，超出数量需要升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_2": "月付和年付哪种更划算？",
+          "AI_FAQ_ANSWER_2": "年付价格约为十个月月付费用，长期使用年付月均成本更低；短期或不确定使用时长可先选月付。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置入口，粘贴订阅链接或导入配置文件，保存后刷新节点列表即可。具体步骤参考对应客户端文档。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量更多、支持 5 台设备，并包含流媒体解锁、IPLC 专线优化和优先工单支持；基础版适合设备少、用量低的场景。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量和 20 台设备支持，适合多人协作或设备较多的小型团队，并包含企业定制路由与专属客户经理。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mest5av3dsyslxbk46d.com",
+    "host": "xn--mest5av3dsyslxbk46d.com"
+  },
+  "file_hashes": {
+    "index.html": "fedf679404a41b19274875d8061621e0af0d41cecbfc954cf181f7e8a2ba3a57",
+    "sitemap.xml": "5bfd6f2732c16869f460dfd8cd20235e944b8b87753125dc587c4dd6aa804713",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e477ab6b19ec424186a8087dfe17774db9097811445e33eccbdbe03528c2de88",
+    "robots.txt": "941bb5fdc2a776c16b1e673290805e4c078f5574f548722c8e9863307eed2708",
+    "27a7c5634444499f7ddf23ca82395f65.txt": "647d2685bcc83f8368a661e81f064b69d1ed40d2cc91bb22b16692c7722376a9"
+  },
+  "revision": "593a1418d06533020b7a6f75828059ffce7e1aa7931fb0ce5c48da33b6ae39ef"
+}
